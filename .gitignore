@@ -1,0 +1,13 @@
+.*.sw?
+todo.txt
+.exe
+.env
+.ipynb
+.DS_Store
+*.log
+.sass-cache
+Guardfile
+_site
+/*.gz
+/*.map
+.ipynb_checkpoints
