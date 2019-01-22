@@ -1,6 +1,6 @@
 .*.sw?
 todo.txt
-.exe
+*.exe
 .env
 .ipynb
 .DS_Store
